@@ -1,3 +1,11 @@
 {
-  "priorityKeywords": ["outage", "down", "vpn", "urgent"]
+  "baseUrl": "https://api.connectwise.com",
+  "company": "your_company",
+  "clientId": "your_client_id",
+  "priorityKeywords": [
+    "outage",
+    "down",
+    "vpn",
+    "urgent"
+  ]
 }
