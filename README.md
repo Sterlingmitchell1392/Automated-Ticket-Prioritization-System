@@ -59,15 +59,19 @@ See diagram in `/docs/architecture-diagram.png`
 ## 🎯 Goal
 Reduce manual triage and improve response time for critical issues.
 
-Key Features=
-Automated ticket triage
-Keyword-based prioritization
-API integration
-Scalable for MSP environments
+<b>Key Features</b>
+
+-Automated ticket triage
+
+-Keyword-based prioritization
+
+-API integration
+
+-Scalable for MSP environments
 
 
 
-📈 Business Impact
+<u>📈 Business Impact</u>-
 Faster response to critical issues
 Improved SLA compliance
 Reduced manual workload
@@ -75,7 +79,7 @@ Increased operational efficiency
 
 
 
-🔮 Future Improvements
+<u>🔮 Future Improvements</u>-
 Microsoft Teams / email alerting
 Azure Function (serverless automation)
 Severity scoring (AI/NLP)
@@ -83,7 +87,7 @@ Dashboard reporting
 
 
 
-🔐 Security Considerations
+<u>🔐 Security Considerations</u>-
 Store API keys securely (environment variables / vault)
 Avoid hardcoding credentials
 Implement logging and error handling
