@@ -52,7 +52,7 @@ Located here:
 ---
 
 ## 🖼️ Architecture
-See diagram in `/docs/Automated ticket prioritization flowchart.png'
+See diagram in '/docs/Automated ticket prioritization flowchart.png'
 
 ---
 
